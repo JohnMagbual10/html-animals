@@ -1,2 +1,2 @@
 # html-animals
-Second repo on github
+Webiste about animals
